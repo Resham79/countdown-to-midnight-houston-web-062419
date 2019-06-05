@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown(number)
+def countdown((number)
   while number > 0
    sleep 1
     puts "#{number} SECOND(S)!"
@@ -10,4 +10,3 @@ def countdown(number)
 end
 
 countdown(10)
-
